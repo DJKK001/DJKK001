@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💙😊
 
-<!--
-**DJKK001/DJKK001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jhon Martinez Valdez
 
-Here are some ideas to get you started:
+- Sou curioso
+- Gosto de aprender
+- Sou bem alegre
+- Eu utilizo este espaço para aprender e compartilhar conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode me contatar com o email📧:
+
+tomachote001@gmail.com
+
+![](https://media.tenor.com/Dn_kOD2CNKkAAAAM/oh-que-buena-frase-anotala-mario-hugo-mario-hugo.gif)
