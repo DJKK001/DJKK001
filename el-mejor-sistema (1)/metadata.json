@@ -1,0 +1,7 @@
+{
+  "name": "el mejor sistema",
+  "description": "A comprehensive document management system with integrated financial controls, automated workflow, and image capture capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
